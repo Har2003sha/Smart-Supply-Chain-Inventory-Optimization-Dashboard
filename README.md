@@ -2,14 +2,6 @@
 
 A modern and interactive Supply Chain & Inventory Optimization Dashboard built using **HTML, CSS, and JavaScript**. This project provides real-time inventory visibility, stock monitoring, vendor performance tracking, and actionable business insights through an intuitive dashboard interface.
 
-## 📸 Dashboard Preview
-
-### Main Dashboard
-![Supply Chain Dashboard 1](assets/output_1.png)
-
-### Analytics & Insights
-![Supply Chain Dashboard 2](assets/output_2.png)
-
 ## 🚀 Features
 
 * 📊 Real-Time Inventory Monitoring
@@ -32,10 +24,10 @@ A modern and interactive Supply Chain & Inventory Optimization Dashboard built u
 ## 📸 Dashboard Preview
 
 ### Main Dashboard
+![Supply Chain Dashboard 1](assets/output_1.png)
 
-<img width="100%" alt="Dashboard Preview" src="assets/dashboard-preview.png">
-
-> Replace the image path with your actual dashboard screenshot.
+### Analytics & Insights
+![Supply Chain Dashboard 2](assets/output_2.png)
 
 ## 📂 Project Structure
 
